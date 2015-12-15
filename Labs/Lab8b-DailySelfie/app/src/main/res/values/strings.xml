@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daily Selfie</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_camera">Camera</string>
+    <string name="title_activity_full_size_selfie">FullSizeSelfieActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
